@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Cansu! 🌟</h1>
 <h3 align="center">I'm a Software Engineering student.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS.**
 
 - 📫 **nugreusnac@gmail.com**
 
