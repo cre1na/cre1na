@@ -50,8 +50,3 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/cre1na/cre1na/output/snake.svg" alt="Snake animation" />
-
-
-###
