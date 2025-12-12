@@ -1,13 +1,7 @@
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29zanlzY2k5MzVhYnpsZ3NhMnNld2wyY2ppOGcyczZ3cGVsdzg3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif"  />
 </div>
-<a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C1B1F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Cansu" 
-    alt="Typing SVG"
-    style="margin-left: 40px;"
-  />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C1B1F7&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Cansu" alt="Typing SVG" /></a>
 
 
 ###
