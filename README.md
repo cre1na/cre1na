@@ -1,13 +1,14 @@
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29zanlzY2k5MzVhYnpsZ3NhMnNld2wyY2ppOGcyczZ3cGVsdzg3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif"  />
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C1B1F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Cansu" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C1B1F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Cansu" 
+    alt="Typing SVG"
+    style="margin-left: 20px;"
+  />
+</a>
 
-<div align="center">
-  <a href="www.linkedin.com/in/cansuergün" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
