@@ -5,7 +5,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C1B1F7&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Cansu" alt="Typing SVG" /></a>
 
-
 ###
 
 <div align="center">
@@ -18,7 +17,7 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=15&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=-7&descSize=20&descAlign=50&descAlignY=50&color=#8276C7"  />
-</div>>
+</div>
 
 ###
 
@@ -49,4 +48,3 @@
 </div>
 
 ###
-
