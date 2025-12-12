@@ -5,7 +5,7 @@
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C1B1F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Cansu" 
     alt="Typing SVG"
-    style="margin-left: 20px;"
+    style="margin-left: 40px;"
   />
 </a>
 
@@ -43,13 +43,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="premierepro logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cre1na/cre1na/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cre1na/cre1na/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cre1na/cre1na/output/pacman-contribution-graph.svg">
-</picture>
-
-###
