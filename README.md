@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Software engineering student who enjoys solving problems and improving a little every day.</p>
+<p align="left">Software engineering student who enjoys solving problems, playing games and improving a little every day.</p>
 
 ###
 
